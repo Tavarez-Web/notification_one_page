@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "669575204744",
+    "project_id": "notificaciones-siembra",
+    "storage_bucket": "notificaciones-siembra.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:669575204744:android:6605258ea90f4b95c8f43d",
+        "android_client_info": {
+          "package_name": "com.example.notification_one_page"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAjhFuNE9WZOFz6dy61m5olLqdoy7jx8HM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
